@@ -1,4 +1,4 @@
-# Sidi Teyib BEDDY — ML Engineer | Data Scientist | Data Engineer
+# Sidi Teyib BEDDY — ML Engineer | Data Scientist
 
 Mon positionnement est clair : intégrer, déployer et fiabiliser des cas d'usage IA concrets. Issu d'une reconversion géologie → Data & IA, j'ai développé une expertise en Computer Vision, NLP, déploiement de modèles et architecture data. Je m'intéresse particulièrement aux environnements où l'IA doit sortir du prototype pour devenir utile, robuste et exploitable en production.
 
